@@ -50,7 +50,7 @@ const AddMovie = ({handleAddMovie }) => {
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant="primary" type='submit' onClick={mySubmitHandler}>Save Changes</Button>
-                    <Button variant="secondary" onClick() => {handleClose}>Close</Button>
+                    <Button variant="secondary" type='submit' onClick={handleClose}>Close</Button>
                 </Modal.Footer>
             </Modal>
         </>
