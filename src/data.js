@@ -21,10 +21,7 @@ export const movieData = [
     rate:3
     },
     
-    {title:"Breaking Bad",
-    description:"A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future",
-    posterURL:"https://fr.web.img5.acsta.net/pictures/19/06/18/12/11/3956503.jpg",
-    rate:5},
+   
 
     {title:"Sherlock",
     description:"A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
